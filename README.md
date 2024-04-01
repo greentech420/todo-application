@@ -1,2 +1,0 @@
-# todo-application
-first repository
